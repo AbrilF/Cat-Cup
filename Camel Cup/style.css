@@ -1,0 +1,19 @@
+.line{
+  width: 100%;
+  display: inline-flex;
+}
+img{
+  width: 3.3%;
+}
+header{
+  display: flex;
+  justify-content: center;
+}
+h1{
+  color: rgb(205, 66, 198);
+  font-family: arial;
+}
+.names{
+  color: rgb(209, 59, 184);
+  font-family: arial;
+}
